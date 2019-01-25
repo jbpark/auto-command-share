@@ -1,0 +1,1 @@
+git clone ssh://git@dev-builder01.trumpia.com:40/jbpark/auto-command.git
